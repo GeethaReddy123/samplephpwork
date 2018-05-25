@@ -3,7 +3,7 @@
 <body>
   <style>
   h1 {
-        color: yellow;
+        color: red;
     }</style>
 
 <h1>  Hi I am Geetha. Welcome to my page!</h1>
