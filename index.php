@@ -9,7 +9,7 @@
 <h1>  Hi I am Geetha. Welcome to my page!</h1>
 
 <?php
-echo "Version: v2.0";
+echo "Version: v1.1";
 ?>
 
 </body>
